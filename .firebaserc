@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "jgl-prueba-tecnica": {
+      "hosting": {
+        "jgl-auth": [
+          "jgl-prueba-tecnica"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "jgl-prueba-tecnica"
+  }
+}

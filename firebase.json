@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "jgl-auth",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
